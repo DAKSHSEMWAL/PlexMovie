@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PlaxMoview/app/src/main/res/drawable/ic_wb_cloudy_with_padding.xml" value="0.26614583333333336" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/drawable/list_item_image_border.xml" value="0.26614583333333336" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/drawable/list_item_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/drawable/toolbar_background.xml" value="1.0" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout-v28/fragment_movie_detail.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout-v28/item_movie.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/item_card.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/layout/item_movie.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/menu/activity_main_drawer.xml" value="0.12708333333333333" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/PlaxMoview/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
