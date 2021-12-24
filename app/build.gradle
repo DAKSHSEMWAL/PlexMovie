@@ -91,4 +91,7 @@ dependencies {
 
     implementation 'me.gujun.android.taggroup:library:1.4@aar'
 
+    def lottieVersion = "4.2.2"
+    implementation "com.airbnb.android:lottie:$lottieVersion"
+
 }
